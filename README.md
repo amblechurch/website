@@ -11,6 +11,6 @@
 
 | Task        | Progress           | Status |
 | ------------- |:-------------:| -----:|
-| Initial HTML Uploaded | 100% | `live` |
+| Initial HTML Uploaded | 100% | ```python live``` |
 | Initial CSS Uploaded | 0% |   `live` |
 | Initial Media Content Uploaded | 0% | `live` |
