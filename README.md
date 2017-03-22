@@ -11,6 +11,6 @@
 
 | Task        | Progress           | Status |
 | ------------- |:-------------:| -----:|
-| Initial HTML Uploaded | 100% | <span  style="color:green">live</span> |
+| Initial HTML Uploaded | 100% | <font color="green">live</font> |
 | Initial CSS Uploaded | 0% |   `live` |
 | Initial Media Content Uploaded | 0% | `live` |
