@@ -1,4 +1,4 @@
-# website
+# Welcome! AmbleChurch.org is now open source!
 ***
 ### amblechurch.org's website code lives here. 
 ***
