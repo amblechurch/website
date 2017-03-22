@@ -4,13 +4,13 @@
 ***
 #### Tasks
 - Upload HTML
-- Upload CSSf
+- Upload CSS
 - Upload media content
 
 ***
 
-| Tables        | Are           | Cool  |
+| Task        | Progress           | Status |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Initial HTML Uploaded | 100% | `live` |
+| Initial CSS Uploaded | 0% |   `live` |
+| Initial Media Content Uploaded | 0% | `live` |
