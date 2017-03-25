@@ -4,7 +4,7 @@
   <title>Test Map&mdash;OpenLayers, OSM</title>
     <link rel="stylesheet" href="https://openlayers.org/en/v4.0.1/css/ol.css" type="text/css">
     <style>
-      .map {
+      .ambleolmap {
         height: 400px;
         width: 100%;
       }
@@ -14,11 +14,11 @@
   </head>
   <body>
     <h2>Test Map&mdash;OpenLayers, OSM</h2>
-    <div id="map" class="map"></div>
+    <div id="ambleolmap" class="ambleolmap"></div>
     <script type="text/javascript">
 	
       var map = new ol.Map({
-        target: 'map',
+        target: 'ambleolmap',
 		interactions: ol.interaction.defaults({mouseWheelZoom: false}),
         layers: [
           new ol.layer.Tile({
