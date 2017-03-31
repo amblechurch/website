@@ -17,4 +17,4 @@
 
 ***
 
-&copy; Amble United Methodist Church &#124; a cobl.co project.
+© [Amble United Methodist Church](https://amblechurch.org) | a [cobl.co](http://cobl.co) project.
